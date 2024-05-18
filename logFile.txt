@@ -1,0 +1,1 @@
+{"status":true,"info":"craeted log as per user ","title":"log information about user","time_stamp":"2024-05-18T11:14:51.021Z","request_url":"/get-data","http_method":"GET"}
